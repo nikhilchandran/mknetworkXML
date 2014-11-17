@@ -3,6 +3,9 @@
 
 source 'https://github.com/CocoaPods/Specs.git'
 
+pod 'XMLDictionary', :git => 'https://github.com/mysterioustrousers/XMLDictionary.git'
+pod 'MKNetworkKit'
+
 target 'mknetworkXML' do
 
 end

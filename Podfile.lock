@@ -1,0 +1,20 @@
+PODS:
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Reachability (3.1.1)
+  - XMLDictionary (2.0.0)
+
+DEPENDENCIES:
+  - MKNetworkKit
+  - XMLDictionary (from `https://github.com/mysterioustrousers/XMLDictionary.git`)
+
+EXTERNAL SOURCES:
+  XMLDictionary:
+    :git: https://github.com/mysterioustrousers/XMLDictionary.git
+
+SPEC CHECKSUMS:
+  MKNetworkKit: 83e6296a8d42e98a71880424a889773654846d74
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  XMLDictionary: b24cf0d3ced60554201d9962af2a692d0aa9ad98
+
+COCOAPODS: 0.34.4
