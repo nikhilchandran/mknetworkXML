@@ -19,4 +19,6 @@ typedef void (^MYResponseBlock)(NSString *rate);
                          onError:(ErrorBlock) error;
 
 
+
+
 @end
